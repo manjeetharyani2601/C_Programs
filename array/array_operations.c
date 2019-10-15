@@ -48,7 +48,7 @@ void main()
 int ch;
 do{
 printf("\n\n--------Menu-----------\n");
-printf("1.Create\n 2.Display\n 3.Insert\n 4.Delete\n 5.Exit\n");
+printf("\t1.Create\n\t 2.Display\n\t 3.Insert\n\t 4.Delete\n\t 5.Exit\n\t");
 printf("-------------------------------");
 printf("\nEnter your choice: ");
 scanf("%d", &ch);
